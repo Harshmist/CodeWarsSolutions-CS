@@ -1,5 +1,5 @@
 # CodeWarsSolutions-CS
 
-This is just a repo where I can store some of the CodeWars katas I have completed using C#.
+These are just some of the various CodeWars katas  have completed secifically in C#.
 
-There are a lot more that have been completed but may have been similar or just too basic to consider adding to this repo.
+These are by no means all of the problems I have solved, however, many were fairly similar in how they were solved or too basic to justify pushing.
